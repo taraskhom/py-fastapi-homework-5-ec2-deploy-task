@@ -9,7 +9,6 @@ handle_error() {
     exit 1
 }
 
-#sdkjhfksjhd
 # Navigate to the application directory
 cd /home/ubuntu/src/py-fastapi-homework-5-ec2-deploy-task || handle_error "Failed to navigate to the application directory."
 
